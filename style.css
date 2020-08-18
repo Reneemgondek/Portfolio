@@ -1,0 +1,21 @@
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin-bottom: 15px;
+    text-decoration: underline;
+    background-color: pink;
+    color: black;}
+li {
+    background-color:purple;
+    color:white;
+    font-size:24px;
+    font-style:italic;
+    padding-top:5px;}
+html {
+    background-color:lightblue
+}
+img {
+    width:750px;
+    height:500px;
+}
