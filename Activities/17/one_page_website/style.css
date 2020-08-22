@@ -1,0 +1,54 @@
+.main-nav {
+    height:60px;
+    background-color:#f1f1f1;
+    
+}
+.main-nav ul{
+    border: thin solid #333;
+    padding:0;
+}
+.main-nav li {
+    background-color: #777777;
+    display:inline-block;
+    padding:20px 30px;
+    color: white;
+}
+.left-side{
+    width:29%;
+    float:left;
+}
+.main-content{
+    width:70%;
+    float:right;
+}
+.profile-image{
+    float:left;
+    margin-right:25px;
+}
+.more-pics{
+    clear:both
+    padding:40px 20px;
+    text-align:center;
+}
+.cookie-shot{
+    display:inline-block;
+    widows: 30px;
+}
+.cookie-shot img{
+    width:10%;
+    margin-right:10px;
+}
+
+/* Pet Stats */
+
+.left-side{
+    border: thin solid #333;
+    padding:.1%;
+}
+.pet-name img{
+    width:40%;
+    padding:1%
+}
+.main-content img{
+    width:50%;
+}
